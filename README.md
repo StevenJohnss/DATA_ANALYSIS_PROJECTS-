@@ -8,7 +8,7 @@ In these three projects from the udacity Advanced Data Analysis Nanodegree Progr
 
 # Second Project
 
-## Analyze A/B Test, to find wich landing page for an website is better the new or the old
+## Analyze A/B Test, to find wich landing page for a website is better the new or the old
 
 
 # Third Project
